@@ -1,0 +1,6 @@
+python-dotenv
+jinja2==2.11.2
+MarkupSafe==1.1.1
+wtforms==2.3.3
+sqlalchemy==1.2.19
+
